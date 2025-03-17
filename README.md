@@ -6,7 +6,7 @@
 
 ### 🌱 **currently learning**
 
-![React](https://img.shields.io/badge/react-%23087ea4.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23000000)![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%23087ea4.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23000000) ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
 
